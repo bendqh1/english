@@ -1,0 +1,14 @@
+| **Word/Phrase**    | **Notes**                       |
+| ------------------ | ------------------------------- |
+| Cane               |                                 |
+| Stilts             |                                 |
+| Honesty and candor |                                 |
+| Scorching          |                                 |
+| Platter            | like a silver platter           |
+| Waist bag (pouch)  | very different from waste bag   |
+| Slip up            |                                 |
+| Gravel OR pebble   |                                 |
+| Shivers            | may be confused with goosebumps |
+| Commotion          | In Hebrew המולה                 |
+| Earnestly          |                                 |
+| Maternity leave    |                                 |
