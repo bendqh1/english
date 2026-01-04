@@ -11,4 +11,4 @@
 | Shivers            | may be confused with goosebumps |
 | Commotion          | In Hebrew המולה                 |
 | Earnestly          |                                 |
-| Maternity leave    |                                 |
+| Maternity leave    | In Hebrew חופשת לידה           |
