@@ -10,5 +10,6 @@
 | Gravel OR pebble   |                                 |
 | Shivers            | may be confused with goosebumps |
 | Commotion          | In Hebrew המולה                 |
+| Wrinkled          | In Hebrew מקומט                  |
 | Earnestly          |                                 |
 | Maternity leave    | In Hebrew חופשת לידה           |
