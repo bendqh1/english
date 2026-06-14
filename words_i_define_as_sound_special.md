@@ -1,6 +1,6 @@
 | Term / Phrase                                 | Hebrew Translation | Meaning / Notes                                   |
 | --------------------------------------------- | ------------------ | ------------------------------------------------- |
-| caveat                                        | אזהרה              | Cavii-eii(t)                                      |
+| caveat                                        | אזהרה              | Caavii-at                                     |
 | Churn                                         | נטישה              |                                                   |
 | Exacerbate                                    | החמרה              |                                                   |
 | inconsequential                               | חסר חשיבות          |                                                   |
