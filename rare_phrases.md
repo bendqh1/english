@@ -14,3 +14,8 @@
 | Earnestly          |                                 |
 | Maternity leave    | In Hebrew חופשת לידה           |
 | Scribble | In Thai เขียนหวัด and means a knot-like simple drawing, typically in Black and White with a pencil |
+
+## Sentences
+
+* Does this conduct befit a U.S. Marine?
+* Is this conduct befitting of a U.S. Marine?
